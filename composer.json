@@ -1,0 +1,19 @@
+{
+    "name": "boye/php-alg",
+    "description": "php algorithm",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Boye\\PhpAlg\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Olakunle Boye",
+            "email": "kunlexzy@gmail.com"
+        }
+    ],
+    "require": {}
+}
